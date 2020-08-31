@@ -1,1 +1,2 @@
 # Desafio2-maratonIBM-solucionPropuesta
+Los siguiente notebook pertenencen al marco de desarrollo del desafio 2 (Tortuga Code) de la maratón IBM latinoamerica de ciencia de datos, en el primera se encuentra una serie de modelos propuestos y tuneados para posteriormente en la parte 2, desplegar uno de ellos. Para mis información el git asosicado es este: [link](https://github.com/maratonadev-la/desafio-2-2020)
